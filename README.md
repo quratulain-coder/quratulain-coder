@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Blockchain Web3
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/qurat-ul-ain-dev/
 
 <!---
 quratulain-coder/quratulain-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
