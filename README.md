@@ -23,10 +23,10 @@ My development background since 2022 has taught me how to construct complex soft
 ---
 
 ## 📬 Connect With Me
-* 💼 **LinkedIn:** [Paste your LinkedIn Profile URL here]
-* 📧 **Email:** [Paste your professional email address here]
-* 📄 **Academic CV:** [Optional: Add a link to a Google Drive PDF of your CV here]
-
+* 💼 **LinkedIn:** https://www.linkedin.com/in/qurat-ul-ain-dev/
+* 📧 **Email:** quratulaindev9@gmail.com
+* 💼 **Portfolio:** https://qurat-ul-ain.netlify.app/
+* 💼 **Twitter:** https://twitter.com/quratulain_dev
 
 
 <!---
